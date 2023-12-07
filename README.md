@@ -1,13 +1,13 @@
 # computer-vision
 
-Here is a short video of a computer vision task I have been working on. It includes object detection, image segmentation, and monocular depth estimation. 
+Here is a short video of a computer vision task I have been working on. It includes object detection, image segmentation, and monocular depth estimation
 
 ![comp_vis](https://github.com/bwilkie/computer-vision/assets/40703571/b765c296-304b-458d-b943-3b7b28bb755c)
 
-Depth Estimation with “Intel/dpt-hybrid-midas”.
+Depth Estimation with “Intel/dpt-hybrid-midas”
 ![comp_vis2](https://github.com/bwilkie/computer-vision/assets/40703571/22b83042-403d-44f5-9d3e-02e7e2e81a85)
 
-Object Classification was done with Ultrlytics Yolov8-Nano.
+Object Classification was done with Ultrlytics Yolov8-Nano
 ![comp_vis3](https://github.com/bwilkie/computer-vision/assets/40703571/eea4279e-5ae1-416c-b5b5-390fd2c03cf1)
 
 Image Segmentation with "nvidia/segformer-b0-finetuned-ade-512-512"
