@@ -3,7 +3,7 @@
 Here is a quick video overview of a computer vision task I have been working on. It includes object detection, image segmentation, and monocular depth estimation
 
 
-https://github.com/bwilkie/Predictive-Computer-Vision/assets/40703571/dfd5ec84-4a20-46a9-8975-b65369773a9c
+![comp_vis1](https://github.com/bwilkie/Predictive-Computer-Vision/assets/40703571/dfd5ec84-4a20-46a9-8975-b65369773a9c)
 
 
 ![comp_vis](https://github.com/bwilkie/computer-vision/assets/40703571/b765c296-304b-458d-b943-3b7b28bb755c)
