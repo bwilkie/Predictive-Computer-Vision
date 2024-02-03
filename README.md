@@ -5,6 +5,7 @@ Here is a quick video overview of a computer vision task I have been working on.
 The idea started for me when a lecturer gave us a task to conceptualise and research an application of combining a language model with a computer vision model. After a little reading, I was shocked to learn that there are roughly 300 million people with moderate to severe vision impairment and 36 million who are completely blind. I asked myself the question: What vision models are available to build situational understanding?
 
 
+- Video Output Link
 ![comp_vis1](https://github.com/bwilkie/Predictive-Computer-Vision/assets/40703571/dfd5ec84-4a20-46a9-8975-b65369773a9c)
 
 
